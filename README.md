@@ -1,2 +1,16 @@
 # ArrayMethods-Add-Remove
-Methods for Add or Remove Items from an Array Javascript
+
+Hello Devs, let's talk about methods to Add or Remove itens 
+inside arrays in Javascript.
+
+in this one we're going to cover
+
+- Push
+- Pop
+- Shift
+- Unshift
+- Splice
+- Slice
+- Concat
+
+me-coder.com
